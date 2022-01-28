@@ -1,0 +1,14 @@
+default_config:
+  config_files: []
+DEV:
+  mappings: {}
+  servers: []
+QAS:
+  mappings: {}
+  servers: []
+UAT:
+  mappings: {}
+  servers: []
+PRD:
+  mappings: {}
+  servers: []
