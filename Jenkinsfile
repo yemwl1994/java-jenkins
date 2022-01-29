@@ -3,5 +3,4 @@
 Map configMap = [
     application: "mavenVM"
 ]
-
-configMap.get("application")()
+pipeLineApi.applicationPipeline(configMap)
